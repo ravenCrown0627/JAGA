@@ -1,0 +1,3 @@
+[submodule "RaspberryPi/Image-based-Human-Fall-Detection"]
+	path = RaspberryPi/Image-based-Human-Fall-Detection
+	url = https://github.com/uttej2001/Image-based-Human-Fall-Detection.git
